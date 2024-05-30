@@ -1,1 +1,1 @@
-# labyrinth
+This game is about a labyrinth which you can used wasd and your arrows keys to manuver around obstacles such as the walls on the maze and the spiders which guard the treasure. Be carful because if you hit any of the walls or a spider kills you you will have to restart the game.
